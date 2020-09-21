@@ -13,7 +13,7 @@ Therefore our main focus was to program a light-weight library to determine a id
 + using pip
 ```
 original implementation: pip install bangla_stemmer
-modified version: pip3 install git+https://github.com/smafjal/Bangla-stemmer.git
+modified version: pip3 install -e git+https://github.com/smafjal/Bangla-stemmer.git
 ```
 + using git
 ```
