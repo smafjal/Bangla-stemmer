@@ -1,1 +1,1 @@
-
+from .stemmer import stemmer
