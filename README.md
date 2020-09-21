@@ -12,7 +12,8 @@ Therefore our main focus was to program a light-weight library to determine a id
 >### Run the following  to install:
 + using pip
 ```
-pip install bangla_stemmer
+original implementation: pip install bangla_stemmer
+modified version: pip3 install git+https://github.com/smafjal/Bangla-stemmer.git
 ```
 + using git
 ```
